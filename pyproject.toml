@@ -22,10 +22,6 @@ dependencies = [
 daniel-ai-agent = "daniel_ai_agent:main"
 
 [build-system]
-requires = ["uv_build>=0.12.7,<0.13.0"]
-build-backend = "uv_build"
-
-[build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 

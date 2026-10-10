@@ -1,5 +1,5 @@
 [project]
-name = "daniel-ai-agent"
+name = "daniel-gpt"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.scripts]
-daniel-ai-agent = "daniel_ai_agent:main"
+daniel-gpt = "daniel_gpt:main"
 
 [build-system]
 requires = ["hatchling"]

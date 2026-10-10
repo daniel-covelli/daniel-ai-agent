@@ -715,7 +715,7 @@ wheels = [
 ]
 
 [[package]]
-name = "daniel-ai-agent"
+name = "daniel-gpt"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
